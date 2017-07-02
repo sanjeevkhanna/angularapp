@@ -1,2 +1,2 @@
 # angularapp
-Angular Repository Test
+Angular Repository Test from master branch
